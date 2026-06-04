@@ -10,6 +10,15 @@ Ce projet est une application Android développée en Java permettant d'intégre
 - **Suivi Caméra** : La caméra se centre et zoome automatiquement sur la nouvelle position avec une animation fluide.
 - **Gestion du GPS** : Détection automatique si le GPS est désactivé avec affichage d'une boîte de dialogue pour renvoyer vers les réglages système.
 
+## demo vedio
+
+
+
+https://github.com/user-attachments/assets/816ee38d-9eae-4359-ac73-a833959addf2
+
+
+
+
 ## 🛠️ Installation & Configuration
 
 ### 1. Clé API Google Maps
